@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ronen 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> (frontend-leaning, AI-native) at <a href="https://github.com/autokitteh">autokitteh</a> - based in Rishon LeZion, Israel 🇮🇱<br>
+  <strong>Senior Full-Stack Engineer</strong> (frontend-leaning, AI-native) - based in Rishon LeZion, Israel 🇮🇱<br>
   I build developer tooling, mobile apps, and the occasional Git binding.<br>
   I write a <em>lot</em> of TypeScript and just enough Swift to be dangerous.
 </p>
@@ -16,7 +16,7 @@
 
 ### 🛠️ What I'm about
 
-- 💼 Senior Full-Stack Engineer at **autokitteh**, building an AI-native automation platform
+- 💼 Senior Full-Stack Engineer building **AI-native** products, developer platforms, and SaaS
 - 🎨 Frontend specialist - React, Next.js (App Router), and the occasional 3D canvas
 - 🔭 Currently building **Threadbase** - mobile + streaming tooling for managing Claude Code sessions
 - 🐦 Wrote **[Gitty](https://github.com/RonenMars/Gitty)** - idiomatic Swift bindings for libgit2, for apps that don't just *read* Git, they *write* it
@@ -61,7 +61,7 @@
 | Project | What it does |
 |---|---|
 | **[Threadbase](https://github.com/RonenMars/threadbase)** | Manage `claude-code` / `codex` sessions remotely - a cross-platform suite to browse, search, and resume AI coding conversations.<br>*Clients:* [mobile](https://github.com/RonenMars/threadbase-mobile) · [streamer](https://github.com/RonenMars/threadbase-streamer) · [electron](https://github.com/RonenMars/threadbase-electron) · [vscode](https://github.com/RonenMars/threadbase-vscode) · [intellij](https://github.com/RonenMars/threadbase-intellij) · [landing](https://github.com/RonenMars/threadbase-landing-page) |
-| **[autokitteh/web-platform](https://github.com/autokitteh/web-platform)** | The frontend platform I led at autokitteh - simplifying the automation of distributed systems |
+| **[autokitteh/web-platform](https://github.com/autokitteh/web-platform)** | Frontend platform I led as Engineering Lead - simplifying the automation of distributed systems |
 | **[tmux-ai-necromancer](https://github.com/RonenMars/tmux-ai-necromancer)** | tmux-resurrect for your AI agents - bring Claude Code & Codex sessions back after tmux crashes and reboots |
 | **[Gitty](https://github.com/RonenMars/Gitty)** | Idiomatic Swift bindings for libgit2, for apps that don't just read Git, they write it |
 | **[gh-mcp-proxy](https://github.com/RonenMars/gh-mcp-proxy)** | MCP proxy fronting GitHub's official MCP server, adding custom GitHub REST tools |
