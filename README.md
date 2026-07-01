@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ What I'm about
+### 🛠️ What I'm Passionated About
 
 - 💼 Senior Full-Stack Engineer building **AI-native** products, developer platforms, and SaaS
 - 🎨 Frontend specialist - React, Next.js (App Router)
@@ -82,3 +82,4 @@
 <p align="center">
   <em>There are 10 kinds of developers: those who read profile READMEs to the end, and those who don't. Thanks for being the first kind. 🍻</em>
 </p>
+
