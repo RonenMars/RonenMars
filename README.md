@@ -74,7 +74,7 @@
 
 <p align="center">
   <img height="180" src="https://github-stats-card.ronenmars.workers.dev" alt="A few numbers I'm proud of">
-  <img height="180" src="https://github-stats-card.ronenmars.workers.dev/langs" alt="What I write in">
+  <img height="180" src="https://github-stats-card.ronenmars.workers.dev/langs?v=3" alt="What I write in">
 </p>
 
 <p align="center">
