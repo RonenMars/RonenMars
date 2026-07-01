@@ -17,7 +17,7 @@
 ### 🛠️ What I'm about
 
 - 💼 Senior Full-Stack Engineer building **AI-native** products, developer platforms, and SaaS
-- 🎨 Frontend specialist - React, Next.js (App Router), and the occasional 3D canvas
+- 🎨 Frontend specialist - React, Next.js (App Router)
 - 🔭 Currently building **Threadbase** - mobile + streaming tooling for managing Claude Code sessions
 - 🐦 Wrote **[Gitty](https://github.com/RonenMars/Gitty)** - idiomatic Swift bindings for libgit2, for apps that don't just *read* Git, they *write* it
 - 🌱 Always poking at something new - if it compiles on the first try, I get suspicious
@@ -75,8 +75,8 @@
 ### 📊 GitHub, by the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RonenMars&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="Ronen's GitHub stats">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonenMars&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RonenMars&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&count_private=true" alt="Ronen's GitHub stats">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonenMars&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&hide=html,shell" alt="Top languages">
 </p>
 
 <p align="center">
