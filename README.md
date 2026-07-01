@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://il.linkedin.com/in/ronen-mars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ronenmars@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=RonenMars&color=blue&style=flat&label=profile+views" alt="Profile views">
+  <a href="https://il.linkedin.com/in/ronen-mars"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMTEwLTQuMTMgMi4wNyAyLjA3IDAgMDEwIDQuMTN6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+  <a href="mailto:ronenmars@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://komarev.com/ghpvc/?username=RonenMars&color=blue&style=flat&label=Profile+Views" alt="Profile views">
 </p>
 
 ---
@@ -72,8 +72,6 @@
 
 ---
 
-### 📊 GitHub, by the numbers
-
 <p align="center">
   <img height="180" src="https://github-stats-card.ronenmars.workers.dev" alt="A few numbers I'm proud of">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonenMars&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&hide=html,shell" alt="Top languages">
@@ -82,4 +80,3 @@
 <p align="center">
   <em>There are 10 kinds of developers: those who read profile READMEs to the end, and those who don't. Thanks for being the first kind. 🍻</em>
 </p>
-
