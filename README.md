@@ -77,6 +77,7 @@
   <img align="right" height="180" src="https://github-stats-card.ronenmars.workers.dev/langs?v=3" alt="What I write in">
 </p>
 <br clear="both">
+<br>
 
 <p align="center">
   <em>There are 10 kinds of developers: those who read profile READMEs to the end, and those who don't. Thanks for being the first kind. 🍻</em>
