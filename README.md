@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ What I'm Passionated About
+### 🛠️ What I'm Passionate About
 
 - 💼 Senior Full-Stack Engineer building **AI-native** products, developer platforms, and SaaS
 - 🎨 Frontend specialist - React, Next.js (App Router)
@@ -72,10 +72,11 @@
 
 ---
 
-<p align="center">
-  <img height="180" src="https://github-stats-card.ronenmars.workers.dev" alt="A few numbers I'm proud of">
-  <img height="180" src="https://github-stats-card.ronenmars.workers.dev/langs?v=3" alt="What I write in">
+<p>
+  <img align="left" height="180" src="https://github-stats-card.ronenmars.workers.dev" alt="A few numbers I'm proud of">
+  <img align="right" height="180" src="https://github-stats-card.ronenmars.workers.dev/langs?v=3" alt="What I write in">
 </p>
+<br clear="both">
 
 <p align="center">
   <em>There are 10 kinds of developers: those who read profile READMEs to the end, and those who don't. Thanks for being the first kind. 🍻</em>
