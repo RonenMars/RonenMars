@@ -75,8 +75,8 @@
 ### 📊 GitHub, by the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RonenMars&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&count_private=true" alt="Ronen's GitHub stats">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonenMars&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&hide=html,shell" alt="Top languages">
+  <img height="180" src="https://github-stats-card.ronenmars.workers.dev" alt="A few numbers I'm proud of">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonenMars&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6&hide=html,shell" alt="Top languages">
 </p>
 
 <p align="center">
