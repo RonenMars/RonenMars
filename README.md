@@ -14,13 +14,13 @@
 
 ---
 
-## 👋 What I Build
+## 👋 A bit about me
 
 - 🚀 I build **AI-native developer tools**, full-stack products, and mobile apps — from zero to production.
 - 🎨 Frontend applications and platforms built with React, Next.js, React Native, TypeScript, and production-grade UI architecture.
 - 🧱 Backend systems with Node.js/Hono/TypeScript, NestJS, Python/FastAPI, Go, PostgreSQL/SQLite, Redis, GraphQL, and service/API architecture.
 - 📱 Mobile apps across **React Native** and native ecosystems — including Swift-based tooling and experiments.
-- 🛠️ I have a soft spot for **Developer Experience (DevEx)** — many of my open-source projects focus on making developers faster, more productive, and happier.
+- 🛠️ I have a soft spot for **Developer Experience (DevEx)** — from AI coding workflows and internal tooling to CI/CD, release automation, docs, and smoother pull-request flows.
 - 🔭 **Currently building:** **Threadbase** — my personal AI-native development environment for browsing, searching, starting, and resuming Claude Code & Codex sessions across devices.
 - 🐦 Wrote **[Gitty](https://github.com/RonenMars/Gitty)** — idiomatic Swift bindings for libgit2, for apps that don't just *read* Git, they *write* it.
 - 🌱 Always poking at something new — if it compiles on the first try, I get suspicious.
@@ -47,7 +47,7 @@ Examples:
 
 ---
 
-## ⚙️ Technologies
+## 💻 Technologies
 
 💬 **Languages**
 
@@ -88,6 +88,31 @@ Examples:
 
 ---
 
+## 📐 Engineering Workflows
+
+Beyond product development, I enjoy building the engineering systems that support it: CI/CD, release automation, deployment pipelines, and quality gates.
+
+- GitHub Actions pipelines for build, test, release, and deployment.
+- Release automation with semantic-release, conventional commits, changelogs, and Slack notifications.
+- CI/CD with linting, type checking, E2E testing, preview deployments, and quality gates.
+- Deployments to platforms like Vercel and Netlify, backed by clear documentation.
+
+Representative examples: **[AutoKitteh WebPlatform](https://github.com/autokitteh/web-platform)**, **[one-more-highlight](https://github.com/RonenMars/one-more-highlight)**, **[Gitty](https://github.com/RonenMars/Gitty)**, and **[GittyKit docs](https://github.com/RonenMars/gittykit)**.
+
+---
+
+## 🎯 Engineering Principles
+
+A few principles I try to consistently follow:
+
+- **Code quality:** strict linting, clear conventions, and maintainable architecture.
+- **Developer experience:** Storybook, documentation, reusable components, and helpful tooling.
+- **Reliability:** automated testing, CI quality gates, and regular dependency updates.
+- **Communication:** meaningful PRs, conventional commits, and clear documentation.
+- **Think first:** understand the problem before implementing the solution.
+
+---
+
 ## ⭐ Featured Projects
 
 | Project | What it does |
@@ -104,7 +129,7 @@ Examples:
 
 ---
 
-## 🤖 Useful Bots & Automation
+## 💡 Useful Bots & Automation
 
 Beyond developer tools, I also enjoy building small, practical automations that solve everyday problems:
 
