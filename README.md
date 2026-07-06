@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ronen 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong> (frontend-leaning, AI-native) - based in Rishon LeZion, Israel 🇮🇱<br>
-  I build developer tooling, mobile apps, and the occasional Git binding.<br>
+  <strong>Senior Full-Stack Engineer | AI-Native</strong><br>
+  I build AI-native developer tools, backend services, mobile apps, and the occasional Git binding.<br>
   I write a <em>lot</em> of TypeScript and just enough Swift to be dangerous.
 </p>
 
@@ -18,10 +18,11 @@
 
 - 💼 Senior Full-Stack Engineer building **AI-native** products, developer platforms, and SaaS
 - 🎨 Frontend specialist - React, Next.js (App Router)
+- 🧱 Backend builder - Node.js/TypeScript, NestJS, Python/FastAPI, Go, PostgreSQL/SQLite, Redis, GraphQL, and service/API architecture
 - 🔭 Currently building **Threadbase** - mobile + streaming tooling for managing Claude Code sessions
 - 🐦 Wrote **[Gitty](https://github.com/RonenMars/Gitty)** - idiomatic Swift bindings for libgit2, for apps that don't just *read* Git, they *write* it
 - 🌱 Always poking at something new - if it compiles on the first try, I get suspicious
-- 💬 Ask me about TypeScript, frontend architecture, mobile, or why my Git history looks like a crime scene
+- 💬 Ask me about TypeScript, frontend architecture, backend services, mobile, AI coding tools, or why my Git history tells a story
 
 🛜 *I'd tell you a UDP joke, but you might not get it.*
 
@@ -35,6 +36,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -60,7 +62,7 @@
 
 | Project | What it does |
 |---|---|
-| **[Threadbase](https://github.com/RonenMars/threadbase)** | Manage `claude-code` / `codex` sessions remotely - a cross-platform suite to browse, search, and resume AI coding conversations.<br>*Clients:* [mobile](https://github.com/RonenMars/threadbase-mobile) · [streamer](https://github.com/RonenMars/threadbase-streamer) · [electron](https://github.com/RonenMars/threadbase-electron) · [vscode](https://github.com/RonenMars/threadbase-vscode) · [intellij](https://github.com/RonenMars/threadbase-intellij) · [landing](https://github.com/RonenMars/threadbase-landing-page) |
+| **[Threadbase](https://github.com/RonenMars/threadbase)** | Cross-platform tooling for browsing, searching, starting, and resuming Claude Code / Codex coding sessions.<br>*Clients:* [mobile](https://github.com/RonenMars/threadbase-mobile) · [streamer](https://github.com/RonenMars/threadbase-streamer) · [electron](https://github.com/RonenMars/threadbase-electron) · [vscode](https://github.com/RonenMars/threadbase-vscode) · [intellij](https://github.com/RonenMars/threadbase-intellij) · [landing](https://github.com/RonenMars/threadbase-landing-page) |
 | **[autokitteh/web-platform](https://github.com/autokitteh/web-platform)** | Frontend platform I led as Engineering Lead - simplifying the automation of distributed systems |
 | **[tmux-ai-necromancer](https://github.com/RonenMars/tmux-ai-necromancer)** | tmux-resurrect for your AI agents - bring Claude Code & Codex sessions back after tmux crashes and reboots |
 | **[Gitty](https://github.com/RonenMars/Gitty)** | Idiomatic Swift bindings for libgit2, for apps that don't just read Git, they write it |
