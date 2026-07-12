@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ronen 👋</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer • Based in Rishon LeZion, Israel 🇮🇱</strong><br>
+  <strong>Senior Full-Stack Engineer • Based in Israel 🇮🇱</strong><br>
   I build AI-native developer tools, full-stack products, and mobile apps - from architecture to production.<br>
   I write a <em>lot</em> of TypeScript and just enough Swift to be dangerous.
 </p>
